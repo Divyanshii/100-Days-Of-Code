@@ -1,5 +1,5 @@
 # 100DaysOfCode Challenge
-Welcome to my 100DaysOfCode challenge! Here i'll be learning Java within 100 days and share that journey with you all. <br>
+I'm excited to kickstart my 100DaysOfCode journey! Over the next 100 days, I'll be diving into Java programming and documenting my progress every step of the way. Join me on this learning adventure! <br>
 <b> Platform: </b> HackerRank <br>
 <b> Start Date: </b> 20/02/2024 <br>
 <b> End Date: 30/05/2024 </b> 
