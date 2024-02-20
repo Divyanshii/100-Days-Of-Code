@@ -2,7 +2,7 @@
 I'm excited to kickstart my 100DaysOfCode journey! Over the next 100 days, I'll be diving into Java programming and documenting my progress every step of the way. Join me on this learning adventure! <br>
 <b> Platform: </b> HackerRank <br>
 <b> Start Date: </b> 20/02/2024 <br>
-<b> End Date: 30/05/2024 </b> 
+<b> End Date: </b> 30/05/2024
 ## What is the 100DaysOfCode Challenge?
 The #100DaysOfCode challenge is a commitment to code for at least one hour every day for the next 100 days. Whether you're a beginner or a seasoned developer, this challenge is a fantastic way to enhance your coding skills, build a coding habit, and connect with a community of like-minded individuals.
 ## Why am I taking on this challenge?
