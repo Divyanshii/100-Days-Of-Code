@@ -1,6 +1,5 @@
 # 100DaysOfCode Challenge
-I'm excited to kickstart my 100DaysOfCode journey! Over the next 100 days, I'll be diving into Java programming and documenting my progress every step of the way. Join me on this learning adventure! <br>
-<b> Platform: </b> HackerRank <br>
+I'm excited to kickstart my 100DaysOfCode journey! Over the next 100 days, I'll be diving into programming and documenting my progress every step of the way. Join me on this learning adventure! <br>
 <b> Start Date: </b> 20/02/2024 <br>
 <b> End Date: </b> 30/05/2024
 ## What is the 100DaysOfCode Challenge?
